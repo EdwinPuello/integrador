@@ -4,7 +4,7 @@ Aplicación multiplataforma desarrollada con **Flutter** (frontend) y **PHP + My
 
 ## Demo en vivo
 
-Frontend app web desplegado en Netlify: [https://69b485062cfc72a5cf47430d--merry-lokum-f27bd3.netlify.app/](https://69b485062cfc72a5cf47430d--merry-lokum-f27bd3.netlify.app/)
+Frontend app web desplegado en Netlify: [https://merry-lokum-f27bd3.netlify.app](https://merry-lokum-f27bd3.netlify.app)
 
 ## Estructura del proyecto
 
